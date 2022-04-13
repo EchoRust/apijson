@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["EchoLi <tgxz2000@gmail.com>"]
 description = "APIJSON for Rust"
-license = "Apache License 2.0"
+license = "Apache-2.0"
 repository = "https://github.com/EchoRust/apijson"
 keywords = ["APIJSON"]
 
